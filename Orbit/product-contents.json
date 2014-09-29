@@ -1,0 +1,38 @@
+{
+	"com.connerdouglass.Galileo.moons": {
+        "contents-list": [
+            "Phobos (Mars I)",
+            "Deimos (Mars II)",
+            
+            "Io (Jupiter I)",
+            "Europa (Jupiter II)",
+            "Ganymede (Jupiter III)",
+            "Callisto (Jupiter IV)",
+            
+            "Mimas (Saturn I)",
+            "Enceladus (Saturn II)",
+            "Tethys (Saturn III)",
+            "Dione (Saturn IV)",
+            "Rhea (Saturn V)",
+            "Titan (Saturn VI)",
+            "Iapetus (Saturn VIII)",
+            
+            "Ariel (Uranus I)",
+            "Umbriel (Uranus II)",
+            "Titania (Uranus III)",
+            "Oberon (Uranus IV)",
+            "Miranda (Uranus V)",
+            
+            "Triton (Neptune I)"
+        ]
+    },
+    "com.connerdouglass.Galileo.dwarf_planets": {
+        "contents-list": [
+            "Ceres",
+            "Pluto",
+            "Makemake",
+            "Haumea",
+            "Eris"
+        ]
+    }
+}

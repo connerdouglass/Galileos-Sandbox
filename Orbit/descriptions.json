@@ -1,0 +1,746 @@
+{
+	"mercury": {
+		"title": "Mercury",
+		"subtitle": "The Swift Planet",
+		"background": "mercury-details.jpg",
+		"measurements": [
+			{
+				"title": "Age",
+				"string": "4.5 billion",
+				"units": "years"
+			},
+			{
+				"title": "Year",
+				"string": "88",
+				"units": "Earth days"
+			},
+			{
+				"title": "Day",
+				"string": "59",
+				"units": "Earth days"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.38",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Mercury is the nearest planet to the Sun, nicknamed the \"Swift Planet\" due to its relatively fast orbit resulting from its proximity to the Sun.",
+			"From Earth, Mercury is often visible during the day, but is never visible in the middle of the night. This is a result of Mercury's entire orbit lying inside of the orbit of Earth, which is only true of two planets: Mercury and Venus."
+		]
+	},
+	"venus": {
+		"title": "Venus",
+		"background": "venus-details.jpg",
+		"measurements": [
+			{
+				"title": "Temperature",
+				"string": "~800",
+				"units": "°F"
+			}
+		],
+		"paragraphs": [
+			"Venus, named for the Roman goddess of beauty, is the hottest of the Solar System's planets, and is often considered Earth's twin planet.",
+			"Venus is very similar in size and chemical composition to Earth, but has one major difference: temperature. Venusian surface temparatures often exceed 800 °F and result from a \"runaway\" greenhouse gas effect that traps heat in the atmosphere, similar to Earth.",
+			"Several man-made probes have been sent to the surface of Venus for scientific research and have existed no longer than a few hours before being destroyed by the hot conditions on the planet."
+		]
+	},
+	"earth": {
+		"title": "Earth",
+		"subtitle": "The Pale Blue Dot",
+		"background": "earth-details.jpg",
+		"measurements": [
+			{
+	            "title": "Age",
+	            "string": "4.54 billion",
+	            "units": "years"
+        	},
+        	{
+        		"title": "Life Began",
+        		"string": "3.5 billion",
+        		"units": "years ago"
+        	},
+	        {
+	            "title": "Distance from Sun",
+	            "string": "93 million",
+	            "units": "miles"
+	        },
+	        {
+	            "title": "Distance from Moon",
+	            "string": "240 thousand",
+	            "units": "miles"
+	        },
+	        {
+	            "title": "Year",
+	            "string": "365.2",
+	            "units": "days"
+	        },
+	        {
+	        	"title": "Day",
+	        	"string": "24",
+	        	"units": "hours"
+	        }
+		],
+		"paragraphs": [
+			"Earth, home to all of humanity, is the third planet from the Sun. Earth is a terrestrial, rocky planet with a molten core comprised mostly of iron and a surface more than 70% covered in water. Earth's vast salt-water oceans give it its deep blue appearance.",
+			"Within the first one billion years after the formation of the Earth, life appeared in its vast oceans and began to impact both the terrain and the atmosphere, leading over time to the emergence of more advanced forms of life.",
+			"Earth has served for decades as the launchpad for human space exploration, and continues to serve as the vantage point from which the universe is better understood and appreciated by humanity."
+		]
+	},
+	"moon": {
+		"title": "Moon",
+		"subtitle": "Luna",
+		"background": "moon-details.jpg",
+		"measurements": [
+			{
+	            "title": "Age",
+	            "string": "4.527 billion",
+	            "units": "years"
+        	},
+        	{
+	            "title": "Distance from Earth",
+	            "string": "240 thousand",
+	            "units": "miles"
+	        },
+	        {
+	            "title": "Radius",
+	            "string": "0.273",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"On July 20, 1969, Neil Armstrong became the first man to set foot on the Moon. With the phrase, \"One small step for a man, one giant leap for mankind,\" Armstrong forever altered the way humans look at space.",
+			"The Moon is our nearest major celestial neighbor. It is tidally locked to Earth, meaning that the same side of the Moon is facing Earth at all times. Because of this, there is no true dark side of the moon, but there is a near side and a far side.",
+			"The surface of the Moon currently looks to be humanity's most immediate location for colonization outside of Earth. One day you may look and see the dark parts of the moon lit by city lights, and filled with people looking up at you too."
+		]
+	},
+	"moon": {
+		"title": "Moon",
+		"subtitle": "Luna",
+		"background": "moon-details.jpg",
+		"measurements": [
+			{
+	            "title": "Age",
+	            "string": "4.527 billion",
+	            "units": "years"
+        	},
+        	{
+	            "title": "Distance from Earth",
+	            "string": "240 thousand",
+	            "units": "miles"
+	        },
+	        {
+	            "title": "Radius",
+	            "string": "0.273",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"On July 20, 1969, Neil Armstrong became the first man to set foot on the Moon. With the phrase, \"One small step for a man, one giant leap for mankind,\" Armstrong forever altered the way humans look at space.",
+			"The Moon is our nearest major celestial neighbor. It is tidally locked to Earth, meaning that the same side of the Moon is facing Earth at all times. Because of this, there is no true dark side of the moon, but there is a near side and a far side.",
+			"The surface of the Moon currently looks to be humanity's most immediate location for colonization outside of Earth. One day you may look and see the dark parts of the moon lit by city lights, and filled with people looking up at you too."
+		]
+	},
+	"mars": {
+		"title": "Mars",
+		"subtitle": "The Red Planet",
+		"background": "mars-details.jpg",
+		"measurements": [
+			{
+	            "title": "Age",
+	            "string": "4.5 billion",
+	            "units": "years"
+        	},
+        	{
+	            "title": "Distance from Earth",
+	            "string": "141 million",
+	            "units": "miles"
+	        },
+	        {
+	            "title": "Radius",
+	            "string": "0.53",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Mars, the \"Red Planet\" is the subject of hundreds of years of scientific interest and will, in the next two or three decades, be the target for the first human interplanetary mission.",
+			"In addition to being a potential location for future human habitation, Mars has historically been the center of alien myths in the world, hence the word \"martian\". Still, today, Mars could support microbial life but it is not yet known if it does."
+		]
+	},
+	"phobos": {
+		"title": "Phobos",
+		"subtitle": "Mars I",
+		"background": "phobos-details.jpg",
+		"measurements": [
+			{
+	            "title": "Distance from Mars",
+	            "string": "5,826",
+	            "units": "miles"
+	        },
+	        {
+	            "title": "Radius",
+	            "string": "0.0017",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Phobos is the nearest and largest of Mars's two major moons (Phobos and Deimos).",
+			"Phobos gets its name from the Iliad, in which Greek god Ares summons Fear, named \"Phobos\" in Greek."
+		]
+	},
+	"deimos": {
+		"title": "Deimos",
+		"subtitle": "Mars II",
+		"background": "deimos-details.jpg",
+		"measurements": [
+			{
+	            "title": "Distance from Mars",
+	            "string": "14,753",
+	            "units": "miles"
+	        },
+	        {
+	            "title": "Radius",
+	            "string": "0.0009",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Deimos is a tiny moon orbiting Mars. Deimos is significantly smaller than her sister Moon, Phobos, and orbits at a much greater distance.",
+			"Deimos, like Phobos, gets its name from the Iliad. The word \"Deimos\" stands for Dread in Greek mythology."
+		]
+	},
+	"jupiter": {
+		"title": "Jupiter",
+		"subtitle": "",
+		"background": "jupiter-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Sun",
+				"string": "484 million",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "10.9",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Jupiter is one of the Solar System's greatest gems. It is the largest planet in the Solar System, and is roughly 11 times as wide as Earth.",
+			"Additionally, the incredible gravity on Jupiter, caused by its large mass, causes Jupiter to serve as a \"vacuum cleaner\" for the inner planets, stopping potentially harmful comets and meteors from reaching Earth.",
+			"Jupiter also has four major moons, called the Galilean Moons (Io, Europa, Ganymede, and Callisto). Of those four, the last three have the potential to support life in vast subsurface oceans."
+		]
+	},
+	"io": {
+		"title": "Io",
+		"subtitle": "Jupiter I",
+		"background": "io-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Jupiter",
+				"string": "262 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.29",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Io is the innermost of Jupiter's four Galilean moons, and features the Solar System's most active volcanic surface and also one of its most colorful and interesting surfaces." 
+		]
+	},
+	"europa": {
+		"title": "Europa",
+		"subtitle": "Jupiter II",
+		"background": "europa-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Jupiter",
+				"string": "417 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.25",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Europa is the second of the Galilean moons, and is one of the most intriguing bodies in the Solar System to scientists.",
+			"With a surface composed entirely of ice, and a vast, deep subsurface water ocean, Europa is a potential destination in the search of extra-terrestrial life."
+		]
+	},
+	"ganymede": {
+		"title": "Ganymede",
+		"subtitle": "Jupiter III",
+		"background": "ganymede-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Jupiter",
+				"string": "665 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.413",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Ganymede, the third Galilean moon of Jupiter, is the largest moon in the Solar System. In fact, it is so large that it outsizes the planet Mercury.",
+			"Much like it's sister moon, Europa, Ganymede features a subsurface water ocean that could potentially support life."
+		]
+	},
+	"callisto": {
+		"title": "Callisto",
+		"subtitle": "Jupiter IV",
+		"background": "callisto-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Jupiter",
+				"string": "1.1 million",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.378",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Callisto, the fourth and final of Jupiter's Galilean moons, is the third largest moon in the Solar System and perhaps one of the prettiest as well.",
+			"Of the bodies in the Jovian System (the area around Jupiter), Callisto looks to be the most promising location for future human exploration of the system due to its low solar radiation."
+		]
+	},
+	"saturn": {
+		"title": "Saturn",
+		"background": "saturn-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Sun",
+				"string": "869 million",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "9.14",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Saturn, the sixth planet from the Sun, is one of the Solar System's most beautiful bodies, featuring a magnificent system of rings and a plethora of large moons to accompany it.",
+			"Studied extensively through a variety of NASA programs (the most notable of which is Cassini), Saturn serves as a reminder of the natural beauty that arises in the universe."
+		]
+	},
+	"mimas": {
+		"title": "Mimas",
+		"subtitle": "Saturn I",
+		"background": "mimas-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Saturn",
+				"string": "114 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.031",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Mimas is nicknamed the \"Death Star\" for its striking similarity in appearance to the space station by the same name in the Star Wars series.",
+			"As an absolutely tiny moon, the amount of land area on Mimas is less than the total land area of Spain."
+		]
+	},
+	"enceladus": {
+		"title": "Enceladus",
+		"subtitle": "Saturn II",
+		"background": "enceladus-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Saturn",
+				"string": "148 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.04",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Enceladus is a geologically active moon orbiting Saturn. Although very small, the surface of Enceladus features a wide variety of new and old texture due to volcanic and non-volcanic regions."
+		]
+	},
+	"tethys": {
+		"title": "Tethys",
+		"subtitle": "Saturn III",
+		"background": "tethys-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Saturn",
+				"string": "183 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.083",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Tethys is an icy moon of Saturn, heavily covered in deep, distinct surface craters. It's largest crater, Odysseus, is over 200 miles across."
+		]
+	},
+	"dione": {
+		"title": "Dione",
+		"subtitle": "Saturn IV",
+		"background": "dione-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Saturn",
+				"string": "235 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.088",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Dione is a moon of Saturn with a surface comprised mostly of water ice.",
+			"Interestingly, Dione is roughly the same distance from Saturn that the Moon is from Earth, yet due to the much greater mass of Saturn, it orbits Saturn much more quickly than the moon."
+		]
+	},
+	"rhea": {
+		"title": "Rhea",
+		"subtitle": "Saturn V",
+		"background": "rhea-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Saturn",
+				"string": "328 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.12",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Rhea is Saturn's second largest moon, and has interesting features such as an oxygen-rich atmosphere."
+		]
+	},
+	"titan": {
+		"title": "Titan",
+		"subtitle": "Saturn VI",
+		"background": "titan-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Saturn",
+				"string": "759 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.4",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Saturn's largest moon, Titan, is easily one of the Solar System's most interesting bodies. It is the only astronomical body apart from Earth currently known to have flowing rivers and oceans.",
+			"However, the important difference between Earth and Titan is that the oceans and rivers on Titan are comprised of liquid methane at a very low temperature.",
+			"Titan's thick, glowing atmosphere, flowing liquid methane, and carbon-rich environment, make it a great target for future NASA missions for microbial life."
+		]
+	},
+	"iapetus": {
+		"title": "Iapetus",
+		"subtitle": "Saturn VIII",
+		"background": "iapetus-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Saturn",
+				"string": "2.2 million",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.115",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Iapetus is Saturn's third largest natural satellite, and is best recognized for its distinct black and white contrast."
+		]
+	},
+	"uranus": {
+		"title": "Uranus",
+		"subtitle": "The Sideways Planet",
+		"background": "uranus-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Sun",
+				"string": "1.78 billion",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "4.0",
+	            "units": "Earths"
+	        },
+	        {
+				"title": "Axis Tilt",
+				"string": "99",
+				"units": "°"
+			}
+		],
+		"paragraphs": [
+			"Uranus is the seventh planet from the Sun, and the coldest in the Solar System. Discovered by William Herschel in 1781, Uranus was the first planet discovered through a telescope.",
+			"Although it is closer to the Sun than Neptune, Uranus is colder than Neptune, due likely to the composition of the core of Uranus.",
+			"The most notable observation of Uranus is its sideways orientation. Unlike any other planet, Uranus rotates on its side."
+		]
+	},
+	"miranda": {
+		"title": "Miranda",
+		"subtitle": "Uranus V",
+		"background": "miranda-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Uranus",
+				"string": "80 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.037",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Miranda is a small moon orbiting Uranus. It shows off a unique surface with diverse, icy topography."
+		]
+	},
+	"ariel": {
+		"title": "Ariel",
+		"subtitle": "Uranus I",
+		"background": "ariel-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Uranus",
+				"string": "118 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.09",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Ariel, the fourth largest of Uranus's moons, has a vicious transition between warm and cold seasons due to its sideways orbit, leading to very stark differences between north and south poles."
+		]
+	},
+	"umbriel": {
+		"title": "Umbriel",
+		"subtitle": "Uranus II",
+		"background": "",
+		"measurements": [
+			{
+				"title": "Distance from Uranus",
+				"string": "165 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.092",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Umbriel is a moon of Uranus and is extremely shaped by impacts and collisions creating immense craters on its surface."
+		]
+	},
+	"titania": {
+		"title": "Titania",
+		"subtitle": "Uranus III",
+		"background": "titania-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Uranus",
+				"string": "271 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.124",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Titania is the largest of the moons of Uranus, and is comprised mostly of water ice with a rocky core."
+		]
+	},
+	"oberon": {
+		"title": "Oberon",
+		"subtitle": "Uranus IV",
+		"background": "oberon-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Uranus",
+				"string": "363 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.119",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Oberon is Uranus' most distant moon, and also its second largest behind only Titania. Oberon is almost entirely shaped by asteroid collisions encountered throughout its history."
+		]
+	},
+	"neptune": {
+		"title": "Neptune",
+		"background": "neptune-details.jpg",
+		"measurements": [
+			{
+				"title": "Distance from Sun",
+				"string": "2.8 billion",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "3.86",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Neptune, the most distant planet from the Sun, was the first planet discovered by direct mathematical prediction and not visual observation.",
+			"An anomaly in the orbit of the planet Uranus led to the prediction of the existence of Neptune in the mid-1800s."
+		]
+	},
+	"triton": {
+		"title": "Triton",
+		"subtitle": "Neptune I",
+		"measurements": [
+			{
+				"title": "Distance from Neptune",
+				"string": "220 thousand",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.21",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Triton is Neptune's largest moon by a significant margin, and is one of the most geologically active moons in the Solar System.",
+			"The active surface of Triton contains geysers launching nitrogen up to 5 miles above the surface of the moon."
+		]
+	},
+	"pluto": {
+		"title": "Pluto",
+		"subtitle": "Minor Planet 134340 Pluto",
+		"background": "pluto-details.png",
+		"measurements": [
+			{
+				"title": "Distance from Sun",
+				"string": "3.65 billion",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.18",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Pluto is a dwarf planet (no, friends, it is not a planet) and is the largest object in the Kuiper Belt. Prior to 2006, Pluto was categorized as a planet, the ninth in the Solar System. In 2006, it was recategorized to a dwarf planet.",
+			"Despite the popularity of the dwarf planet in popular culture, there are no clear images of Pluto yet. However in July of 2015, NASA plans to photograph Pluto in detail. Until then, the image above is the most accurate image currently available."
+		]
+	},
+	"ceres": {
+		"title": "Ceres",
+		"subtitle": "Minor Planet 1 Ceres",
+		"measurements": [
+			{
+				"title": "Distance from Sun",
+				"string": "257 million",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.075",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Ceres is the largest object in the Asteroid Belt between Mars and Jupiter. It has a slight atmosphere that contains traces of water vapor, which is unusual for non-comet bodies of the type of Ceres."
+		]
+	},
+	"makemake": {
+		"title": "Makemake",
+		"subtitle": "Minor Planet 136472 Makemake",
+		"measurements": [
+			{
+				"title": "Distance from Sun",
+				"string": "4.26 billion",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.11",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Makemake is one of the largest objects in the Kuiper Belt, and very little is known about it due to its isolation. It has no natural satellites and likely a surface of methane ice."
+		]
+	},
+	"haumea": {
+		"title": "Haumea",
+		"subtitle": "Minor Planet 136108 Haumea",
+		"measurements": [
+			{
+				"title": "Distance from Sun",
+				"string": "4.0 billion",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.1",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Haumea is a dwarf planet residing in the Kupier belt beyond the orbit of Neptune. Its name comes from the name of a goddess in Hawai'ian mythology because its discovery occurred through an observatory in Hawai'i."
+		]
+	},
+	"eris": {
+		"title": "Eris",
+		"subtitle": "Minor Planet 136199 Eris",
+		"measurements": [
+			{
+				"title": "Distance from Sun",
+				"string": "6.3 billion",
+				"units": "miles"
+			},
+	        {
+	            "title": "Radius",
+	            "string": "0.18",
+	            "units": "Earths"
+	        }
+		],
+		"paragraphs": [
+			"Eris is the most massive of all dwarf planets in the Solar System and, like Pluto, was originally categorized as a planet (the tenth in the Solar System). In 2006, Eris and Pluto were both designated as minor planets."
+		]
+	}
+}
